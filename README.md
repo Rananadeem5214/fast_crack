@@ -20,7 +20,7 @@ pkg install figlet
 
 pip2 install ipaddress
 
-rm -rf All-in-1
+rm -rf fast_crack
 
 git clone https://github.com/Rananadeem5214/fast_crack.git 
 
